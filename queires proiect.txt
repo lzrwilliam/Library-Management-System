@@ -1,0 +1,48 @@
+
+
+- 
+- utilizator va fi anuntat cand se aproprie/depaseste deadline retur carte.
+-Un user poate imprumuta mai multe carti, dar nu aceeasi carte daca este deja imprumutata si nu a returnat-o. // facut
+Căutare de cărți după gen și autor. // facut
+Adminii sa poata modifica pentru un membru un imprumut, sa il poata sterge.
+Adminii sa poate adauga o carte noua cu (autor, gen etc din cele existente). // facut
+Afișarea tuturor împrumuturilor active ale unui utilizator. // facut
+Afișarea celor mai populare cărți (cele mai împrumutate). // facut
+Calcularea ratelor medii de recenzii pe genuri de cărți.
+Generarea raportului de activitate pentru un utilizator (cărți împrumutate, returnate, etc.).
+Verificarea disponibilității unei anumite cărți.
+Sugestii de cărți bazate pe istoricul de împrumut al utilizatorului.
+Identificarea celor mai activi membri ai bibliotecii (bazat pe numărul de împrumuturi).
+Afișarea tuturor recenziilor pentru o anumită carte. // facut
+
+
+
+Am implementat:
+-imprumut si retur carte cu actualizare de stoc
+-amenzi multiple per user daca are mai multe dati depasite si cu cresterea amenzii pe zi ce trece si e neplatita
+-posibilitate plata o anumita amenda
+-cautare dupa autor sau dupa nume a cartii
+-notificari catre users care au depasit perioada de retur si posibilitate marcare ca si read a notificarilor
+- user poate adauga review-uri si review-urile se salveaza in reviews.csv
+-putem vedea review-urile unei anumite carti. 
+un user daca incearca sa lase un review la aceeasi carte si are deja review lasat, il suprascrie pe cel vechi.
+User poate da doar un singur review per carte, doar la cartile pe care le-a avut. verificam cu loans.csv
+adminii pot adauga carti , acestea salvandu-se in books.csv O carte poate fi adaugata daca nu exista deja aceeasi carte cu acelasi autor in fisier.
+--afisarea primele 3 carti cele mai populare dp nr de imprumuturi
+adminii pot modifica loanstatus si loandate al unui loan existent din loans.csv si s
+
+
+
+DOAR REVIEW-URILE se salveaza momentan in csv-ul sau, mai am pentru restul de actiuni sa fac scrierile in csv.
+se salveaza si loans acum si la loading loans daca nu avem destule carti pe stoc se da eroare daca avem loans de o carte mai mare decat cantitatea ei in stoc
+se salveeaza so cartile adaugate in books.csv
+se salveaza modificarile aduse loans in loans.csv
+adminii sa poata modifica amenzile unui user in platita/neplatita, sau sa modifice suma de plata.
+
+
+
+
+
+
+
+in fisierul fines report sa fie afisat si numele user-ului dupa user id

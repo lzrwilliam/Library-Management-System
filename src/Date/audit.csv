@@ -1,0 +1,137 @@
+Action, Timestamp
+User 4 has loaned 1 to The Great Gatsby, 2024-04-30 10:44:38
+Book returned by user 1: WW2, 2024-04-30 10:45:04
+Loan 1 updated to 2024-04-30 by admin 4, 2024-04-30 10:52:26
+User 2 has loaned 1 to The Great Gatsby, 2024-04-30 10:53:51
+User 2 has loaned 3 to 1984, 2024-04-30 10:54:00
+Loan 2 updated to 2020-04-30 by admin 1, 2024-04-30 10:54:21
+Notification sent for overdue loan ID 2, 2024-04-30 10:54:57
+Notification sent for overdue loan ID 2, 2024-04-30 10:57:19
+User 3 has loaned 3 to 1984, 2024-04-30 10:57:27
+Loan 4 updated to 2002-04-30 by admin 1, 2024-04-30 10:57:44
+Notification sent for overdue loan ID 2, 2024-04-30 10:57:45
+Notification sent for overdue loan ID 4, 2024-04-30 10:57:45
+Notification sent for overdue loan ID 2, 2024-04-30 10:59:30
+Notification sent for overdue loan ID 2, 2024-04-30 11:01:25
+Notification sent for overdue loan ID 2, 2024-04-30 11:02:19
+Notification sent for overdue loan ID 5, 2024-04-30 11:02:19
+Notification sent for overdue loan ID 2, 2024-04-30 11:03:43
+Notification sent for overdue loan ID 5, 2024-04-30 11:03:43
+Notification sent for overdue loan ID 2, 2024-04-30 11:04:00
+Notification sent for overdue loan ID 5, 2024-04-30 11:04:00
+Notification sent for overdue loan ID 1, 2024-04-30 11:04:34
+Notification sent for overdue loan ID 2, 2024-04-30 11:04:34
+Notification sent for overdue loan ID 5, 2024-04-30 11:04:34
+Notification sent for overdue loan ID 1, 2024-04-30 11:05:48
+Notification sent for overdue loan ID 2, 2024-04-30 11:05:48
+Notification sent for overdue loan ID 5, 2024-04-30 11:05:48
+Notification sent for overdue loan ID 1, 2024-04-30 11:11:55
+Notification sent for overdue loan ID 2, 2024-04-30 11:11:55
+Notification sent for overdue loan ID 5, 2024-04-30 11:11:55
+Notification sent for overdue loan ID 1, 2024-04-30 11:15:51
+Notification sent for overdue loan ID 2, 2024-04-30 11:15:51
+Notification sent for overdue loan ID 5, 2024-04-30 11:15:51
+Notification sent for overdue loan ID 1, 2024-04-30 11:19:38
+Notification sent for overdue loan ID 2, 2024-04-30 11:19:38
+Notification sent for overdue loan ID 5, 2024-04-30 11:19:38
+Notification sent for overdue loan ID 1, 2024-04-30 11:20:22
+Notification sent for overdue loan ID 2, 2024-04-30 11:20:22
+Notification sent for overdue loan ID 5, 2024-04-30 11:20:22
+Notification sent for overdue loan ID 1, 2024-04-30 11:20:29
+Notification sent for overdue loan ID 2, 2024-04-30 11:20:29
+Notification sent for overdue loan ID 5, 2024-04-30 11:20:29
+Add Book: da by userJohn, 2024-04-30 11:21:35
+Notification sent for overdue loan ID 1, 2024-04-30 11:23:04
+Notification sent for overdue loan ID 2, 2024-04-30 11:23:04
+Notification sent for overdue loan ID 5, 2024-04-30 11:23:04
+Notification sent for overdue loan ID 1, 2024-04-30 11:25:54
+Notification sent for overdue loan ID 2, 2024-04-30 11:25:54
+Notification sent for overdue loan ID 5, 2024-04-30 11:25:54
+Notification sent for overdue loan ID 1, 2024-04-30 11:26:13
+Notification sent for overdue loan ID 2, 2024-04-30 11:26:13
+Notification sent for overdue loan ID 5, 2024-04-30 11:26:13
+Notification sent for overdue loan ID 1, 2024-04-30 11:27:07
+Notification sent for overdue loan ID 2, 2024-04-30 11:27:07
+Notification sent for overdue loan ID 5, 2024-04-30 11:27:07
+Notification sent for overdue loan ID 1, 2024-05-30 00:36:14
+Notification sent for overdue loan ID 2, 2024-05-30 00:36:14
+Notification sent for overdue loan ID 4, 2024-05-30 00:36:14
+Notification sent for overdue loan ID 5, 2024-05-30 00:36:14
+User 1 has loaned 1 to The Great Gatsby, 2024-05-30 00:37:14
+User 1 has loaned 2 to To Kill a Mockingbird, 2024-05-30 00:37:39
+Book returned by user 2: The Great Gatsby, 2024-05-30 00:37:59
+Book returned by user 1: The Great Gatsby, 2024-05-30 00:38:44
+User 2 has loaned 1 to The Great Gatsby, 2024-05-30 00:40:15
+User 1 has loaned 1 to The Great Gatsby, 2024-05-30 00:49:00
+User 1 has loaned 2 to To Kill a Mockingbird, 2024-05-30 00:49:03
+User 1 has loaned 3 to 1984, 2024-05-30 00:49:11
+Book returned by user 2: The Great Gatsby, 2024-05-30 00:49:15
+Book returned by user 1: The Great Gatsby, 2024-05-30 00:49:19
+Loan 4 updated to 2024-06-08 by admin 1, 2024-05-30 00:49:58
+Book returned by user 1: To Kill a Mockingbird, 2024-05-30 04:21:02
+Notification sent for overdue loan ID 3, 2024-05-30 04:21:45
+Notification sent for overdue loan ID 3, 2024-05-30 04:23:40
+Book returned by user 1: To Kill a Mockingbird, 2024-05-30 04:24:04
+Loan 4 updated to 2022-05-29 by admin 1, 2024-05-30 04:24:50
+Notification sent for overdue loan ID 4, 2024-05-30 04:24:51
+Notification sent for overdue loan ID 4, 2024-05-30 04:25:04
+User 1 has loaned 1 to The Great Gatsby, 2024-05-30 04:25:36
+Book returned by user 1: The Great Gatsby, 2024-05-30 04:25:44
+Notification sent for overdue loan ID 4, 2024-05-30 04:25:56
+Book returned by user 1: The Great Gatsby, 2024-05-30 04:26:08
+Notification sent for overdue loan ID 4, 2024-05-30 15:35:18
+User 1 has loaned 2 to To Kill a Mockingbird, 2024-05-30 15:35:48
+Book returned by user 1: The Great Gatsby, 2024-05-30 15:36:14
+Notification sent for overdue loan ID 4, 2024-05-30 15:36:38
+User 1 has loaned 1 to The Great Gatsby, 2024-05-30 15:38:15
+User 1 has loaned 2 to To Kill a Mockingbird, 2024-05-30 15:38:18
+Book returned by user 1: The Great Gatsby, 2024-05-30 15:38:26
+Book returned by user 1: The Great Gatsby, 2024-05-30 15:45:26
+Book returned by user 1: The Great Gatsby, 2024-05-30 15:50:19
+User 1 has loaned 3 to 1984, 2024-05-30 15:50:49
+User 1 has loaned 4 to WW2, 2024-05-30 15:50:57
+Book returned by user 1: The Great Gatsby, 2024-05-30 16:05:18
+Book returned by user 1: The Great Gatsby, 2024-05-30 16:07:40
+Book returned by user 1: The Great Gatsby, 2024-05-30 16:20:41
+Book returned by user 1: To Kill a Mockingbird, 2024-05-30 16:20:41
+Book returned by user 1: 1984, 2024-05-30 16:20:41
+Book returned by user 1: The Great Gatsby, 2024-05-30 16:33:23
+Book returned by user 1: The Great Gatsby, 2024-05-30 16:37:28
+Book returned by user 1: The Great Gatsby, 2024-05-30 16:40:41
+Book returned by user 1: To Kill a Mockingbird, 2024-05-30 16:40:41
+Book returned by user 1: 1984, 2024-05-30 16:40:41
+Book returned by user 1: WW2, 2024-05-30 16:43:59
+Book returned by user 1: The Great Gatsby, 2024-05-30 16:44:19
+Book returned by user 1: To Kill a Mockingbird, 2024-05-30 16:44:32
+Book returned by user 1: 1984, 2024-05-30 16:44:41
+User 1 has loaned 1 to The Great Gatsby, 2024-05-30 16:55:17
+Book returned by user 1: The Great Gatsby, 2024-05-30 16:55:20
+User 1 has loaned 2 to To Kill a Mockingbird, 2024-05-30 16:55:22
+User 1 has loaned 3 to 1984, 2024-05-30 16:55:25
+Book returned by user 1: 1984, 2024-05-30 16:55:27
+User 1 has loaned 3 to 1984, 2024-06-03 01:56:11
+Notification sent for overdue loan ID 6, 2024-06-03 01:56:38
+User 1 has loaned 4 to WW2, 2024-06-03 01:56:48
+Notification sent for overdue loan ID 6, 2024-06-03 01:57:35
+Notification sent for overdue loan ID 6, 2024-06-03 01:58:08
+Notification sent for overdue loan ID 9, 2024-06-03 01:58:08
+Notification sent for overdue loan ID 6, 2024-06-03 01:58:49
+Notification sent for overdue loan ID 9, 2024-06-03 01:58:49
+Notification sent for overdue loan ID 6, 2024-06-03 01:59:49
+Notification sent for overdue loan ID 9, 2024-06-03 01:59:49
+Notification sent for overdue loan ID 6, 2024-06-03 02:09:50
+Notification sent for overdue loan ID 9, 2024-06-03 02:09:50
+Notification sent for overdue loan ID 6, 2024-06-03 02:15:54
+Notification sent for overdue loan ID 9, 2024-06-03 02:15:54
+Notification sent for overdue loan ID 6, 2024-06-03 15:00:13
+Notification sent for overdue loan ID 9, 2024-06-03 15:00:13
+Add Book: test by userJohn, 2024-06-03 15:00:42
+User 1 has loaned 1 to The Great Gatsby, 2024-06-03 15:01:29
+Book returned by user 1: The Great Gatsby, 2024-06-03 15:01:48
+Fine 2 amount updated to 123.0 by admin John, 2024-06-03 15:03:26
+Fine 2 paid status updated to true by admin John, 2024-06-03 15:03:26
+Notification sent for overdue loan ID 6, 2025-01-18 12:27:38
+User 3 has loaned 2 to To Kill a Mockingbird, 2025-01-18 12:28:14
+Notification sent for overdue loan ID 6, 2025-01-20 17:57:07
+Notification sent for overdue loan ID 6, 2025-01-20 18:03:09
+Add Book: a by userWilliam, 2025-01-20 18:03:37

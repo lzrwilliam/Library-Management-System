@@ -1,0 +1,3 @@
+Fine ID, User ID, Amount, Paid, Description, Book ID
+1,1,7275.0,true,Late return of 'To Kill a Mockingbird' due by 2020-06-09, 1455 days overdue.,2
+2,1,123.0,true,Late return of 'WW2' due by 2020-06-13, 1451 days overdue.,4
