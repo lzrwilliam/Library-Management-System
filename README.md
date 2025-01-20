@@ -149,35 +149,5 @@ All application data is stored in the following files:
   - `UnauthorizedAccessException`
   - `FineAlreadyPaidException`
 
----
 
-## 🤝 Contributing
-
-We welcome contributions! Follow these steps:
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Description of the feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 📧 Contact
-
-For questions or support, contact [your-email@example.com].
 
