@@ -63,17 +63,12 @@ This project includes a **Graphical User Interface (GUI)** and supports **CSV-ba
 
 1. **Java JDK 22 or higher**
 
-   - Install from [Oracle](https://www.oracle.com/java/technologies/javase-downloads.html).
 
 2. **Visual Studio Code (VS Code)**
 
-   - Download from [VS Code](https://code.visualstudio.com/).
    - Install extensions:
      - [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack).
 
-3. **Git**
-
-   - Install from [Git](https://git-scm.com/).
 
 ---
 
